@@ -84,7 +84,7 @@ class PSCWS2 { | class PSCWS3 {
 2.我开发的执行程序
 stat_word_frequency.php
 执行效果如下
-[sunmingzhe@cq01-rdqa-dev012.cq01.baidu.com pscws23]$ php stat_word_frequency.php input.data
+[ pscws23]$ php stat_word_frequency.php input.data
 file(input.data) will be opened
 ---DISPLAY RESULT---
 Array
@@ -107,7 +107,7 @@ Array
 )
 
 其中input.data是数据文件，示例如下
-[sunmingzhe@cq01-rdqa-dev012.cq01.baidu.com pscws23]$ cat input.data
+[ pscws23]$ cat input.data
 你好，我是小明，我希望大家都喜欢我，我现在有个很好的礼物要送给大家
 
 3.需要注意的配置
